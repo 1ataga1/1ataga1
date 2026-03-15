@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Agata, and I'm doing my master's in autonomous systems and intelligent robots in a double degree program between KTH in Stockholm and the University of Bologna.
+My bachelor's in Computer Science Engineering, and I really hope I can improve people's lives with my knowledge in the IT world. 
+
+
